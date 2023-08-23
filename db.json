@@ -1,5 +1,5 @@
 [
-    {
+   "repuestos": [{
         "REFERENCIA": "0720-132-1",
         "DESCRIPCIÓN": "BOMBILLO1FILAMENTO",
         "CANTIDAD": 1,
@@ -7,5 +7,5 @@
         "PRECIO": 1,
         "TIPO_MATERIAL": "ZR48",
         "CÓDIGO": "BVM20"
-    }
+    }]
 ]
