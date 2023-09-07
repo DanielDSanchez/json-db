@@ -4,5 +4,583 @@
                 "Fecha_vence": "2023-09-06T07:37:24.4464826-05:00",
                 "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkFzb25hYyIsIm5iZiI6MTY5NDAwMjA0NCwiZXhwIjoxNjk0MDAzODQ0LCJpYXQiOjE2OTQwMDIwNDQsImlzcyI6Imh0dHA6Ly8xMC4xMC4xMC4zNC9QU0NTZXJ2aWNlcy8iLCJhdWQiOiJodHRwOi8vMTAuMTAuMTAuMzQvUFNDU2VydmljZXMvIn0.H4m-c-NtksXZU01BhIqH8Svvod8-VR3AcY1XQcfgVmY"
             }
-        ]
+        ],
+    "repuestos":[
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "11800651000",
+        "descripcion": "BOMBA ACEITE OM 651 OEGERM",
+        "precio": 1,
+        "t_material": "ZR53",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM17"
+    },
+    {
+        "codigo": "11800651000",
+        "descripcion": "BOMBA ACEITE OM 651 OEGERM",
+        "precio": 1,
+        "t_material": "ZR53",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM17"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    },
+    {
+        "codigo": "0720-132-1",
+        "descripcion": "BOMBILLO1FILAMENTO",
+        "precio": 1,
+        "t_material": "ZR48",
+        "promocion": 0,
+        "cantidad": 1,
+        "codigo_sucursal": "BVM20"
+    }
+ ]
 }
